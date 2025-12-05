@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mis Contactos</string>
+
+    <!-- Login -->
+    <string name="login_titulo">Mis Contactos</string>
+    <string name="login_subtitulo">Inicia sesión para continuar</string>
+    <string name="usuario_hint">Usuario</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="btn_login">Iniciar Sesión</string>
+    <string name="btn_registro">Crear Cuenta</string>
+
+    <!-- Menú -->
+    <string name="menu_bienvenida">Bienvenido, %1$s</string>
+    <string name="btn_registro_contacto">Registrar Contacto</string>
+    <string name="btn_ver_contactos">Ver Contactos</string>
+    <string name="btn_cerrar_sesion">Cerrar Sesión</string>
+
+    <!-- Registro de Contacto -->
+    <string name="registro_titulo">Registro de Contacto</string>
+    <string name="codigo_hint">Código *</string>
+    <string name="nombre_hint">Nombre *</string>
+    <string name="direccion_hint">Dirección</string>
+    <string name="telefono_hint">Teléfono *</string>
+    <string name="correo_hint">Correo electrónico</string>
+    <string name="campos_obligatorios">* Campos obligatorios</string>
+    <string name="btn_seleccionar_imagen">Seleccionar Imagen</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_consultar">Consultar</string>
+    <string name="btn_actualizar">Actualizar</string>
+    <string name="btn_eliminar">Eliminar</string>
+    <string name="btn_limpiar">Limpiar Campos</string>
+
+    <!-- Visor de Contactos -->
+    <string name="visor_titulo">Mis Contactos</string>
+    <string name="sin_contactos">No tienes contactos registrados</string>
+
+    <!-- Mensajes -->
+    <string name="msg_campos_requeridos">Todos los campos son requeridos</string>
+    <string name="msg_codigo_requerido">El código es requerido</string>
+    <string name="msg_nombre_requerido">El nombre es requerido</string>
+    <string name="msg_telefono_requerido">El teléfono es requerido</string>
+    <string name="msg_usuario_requerido">Ingrese usuario</string>
+    <string name="msg_password_requerida">Ingrese contraseña</string>
+    <string name="msg_contacto_guardado">Contacto guardado exitosamente</string>
+    <string name="msg_contacto_actualizado">Contacto actualizado exitosamente</string>
+    <string name="msg_contacto_eliminado">Contacto eliminado exitosamente</string>
+    <string name="msg_contacto_encontrado">Contacto encontrado</string>
+    <string name="msg_contacto_no_encontrado">No se encontró el contacto</string>
+    <string name="msg_error_conexion">Error de conexión</string>
+    <string name="msg_error_imagen">Error al cargar imagen</string>
+
+    <!-- Descripciones de contenido -->
+    <string name="desc_logo">Logo</string>
+    <string name="desc_usuario">Usuario</string>
+    <string name="desc_foto_contacto">Foto del contacto</string>
+    <string name="desc_agregar">Agregar</string>
+    <string name="desc_ver_contactos">Ver contactos</string>
+    <string name="desc_telefono">Teléfono</string>
+    <string name="desc_correo">Correo</string>
+    <string name="desc_direccion">Dirección</string>
+</resources>
