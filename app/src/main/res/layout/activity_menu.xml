@@ -88,7 +88,7 @@
             android:text="@string/btn_ver_contactos"
             android:textSize="16sp"
             android:textStyle="bold"
-            android:drawableStart="@drawable/ic_contacs"
+            android:drawableStart="@drawable/ic_contacts"
             android:drawablePadding="12dp"
             android:backgroundTint="@color/info"
             style="@style/Widget.MaterialComponents.Button"/>
